@@ -36,8 +36,8 @@ This project focuses on analyzing payroll and workforce data to generate busines
 ---
 
 ## 📊 Dashboard Preview
-(Add screenshots of your dashboard here)
-
+CFO_Dashboard_Explanation.pdf
+CFO_Executive_Report.png
 
 ---
 
