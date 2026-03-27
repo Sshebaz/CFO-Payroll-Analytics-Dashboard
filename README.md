@@ -60,4 +60,3 @@ This project demonstrates the use of SQL and Power BI to transform raw payroll d
 - GitHub: https://github.com/Sshebaz  
 ---
 
-## 📁 Project Structure
